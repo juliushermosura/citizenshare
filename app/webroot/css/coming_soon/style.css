@@ -1,0 +1,33 @@
+body {
+				color: #fff;
+				background: #94c1ad;
+				text-align: center;
+				font-family: 'helvetica';
+}
+
+h1, h2 {
+				font-weight: 100;
+				letter-spacing: 1px;
+}
+
+h2 {
+				line-height: 1.3;
+}
+
+.italic {
+				font-style: italic;
+}
+
+.times {
+				font-family: 'times new roman';
+}
+
+#content {
+				width: 575px;
+				margin: auto;
+}
+
+#header {
+				height: 150px;
+}
+

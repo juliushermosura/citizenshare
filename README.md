@@ -1,0 +1,1 @@
+Citizenshare is a Skillshare-style learning platform with a built-in crowdfunding system that enabled educators and creators to raise funds for course development. Built with CakePHP, MySQL, Wistia, and Stripe
